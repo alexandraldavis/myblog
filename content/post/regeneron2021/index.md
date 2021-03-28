@@ -1,5 +1,5 @@
 ---
-title: "Algorithmic approaches in academia"
+title: "Algorithmic approaches"
 date: 2021-03-28T16:38:49-05:00
 draft: false
 ---
