@@ -68,7 +68,7 @@ enabled = false
 # Comment provider:
 #   disqus (https://disqus.com)
 #   commento (https://commento.io)
-#engine = "disqus"
+#engine = "commento"
 
 # Content types to disable comments on.
 #disableOnTypes = ["page"]
