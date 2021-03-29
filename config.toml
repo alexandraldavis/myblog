@@ -1,7 +1,7 @@
 baseURL = "http://bagsy.blog/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-author = "Hugo Authors"
+author = "Alexandra Davis"
 title = "Vitae"
 theme = "hugo-vitae"
 paginate = 5
@@ -43,7 +43,7 @@ googleAnalytics = ""
 	math = true
 
 	# Optional 80x80 avatar image.
-	avatar = "/img/vitae.jpg"
+	avatar = ""
 
 	# Optional favicons for website
 	#favicon = true
@@ -63,7 +63,7 @@ googleAnalytics = ""
 # Comments
 [params.comments]
 # Enable Comments with "true"
-enabled = false
+enabled = true
 
 # Comment provider:
 #   disqus (https://disqus.com)
@@ -95,26 +95,12 @@ name = "About"
 url = "/about"
 weight = 3
 
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
-
-[[menu.main]]
-name = "Categories"
-url = "/categories"
-weight = 5
-
 # Social Menu
-[[params.social]]
-name = "Github"
-icon = "fab fa-github"
-url = "https://github.com/dataCobra/hugo-vitae"
 
 #[[params.social]]
 #name = "Email"
 #icon = "fas fa-envelope"
-#cmd = "mailto:example@example.com"
+#cmd = "mailto:bagsy@posteo.me"
 
 [[params.social]]
 name = "RSS"

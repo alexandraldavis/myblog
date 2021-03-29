@@ -77,7 +77,7 @@
 	{{- $.Scratch.Set "comments" true -}}
 	{{- end -}}
 	{{- if eq ($.Scratch.Get "comments") true -}}
-	{{- partial "comments.html" . -}}
+	{{ partial "welcomments/comments" (dict "context" . "websiteId" "WwtN7N9QF6lm491q0u9k" ) }}
 	{{- end -}}
 	{{- end -}}
 </div>
