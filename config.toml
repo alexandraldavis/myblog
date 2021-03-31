@@ -1,7 +1,7 @@
 baseURL = "http://bagsy.blog/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-author = "Alexandra Davis"
+author = "Hugo Authors"
 title = "Vitae"
 theme = "hugo-vitae"
 paginate = 5
@@ -28,7 +28,7 @@ googleAnalytics = ""
 	keywords = ["hugo","vitae","theme","static"]
 
 	# Add meta description in head part
-	description = "Vitae is a blog theme for Hugo that focuses on your content."
+	# description = "Vitae is a blog theme for Hugo that focuses on your content."
 
 	# Add pagetitle to homepage <title> tag
 	pagetitle = "All about static site generation"
@@ -43,7 +43,7 @@ googleAnalytics = ""
 	math = true
 
 	# Optional 80x80 avatar image.
-	avatar = ""
+	# avatar = "/img/vitae.jpg"
 
 	# Optional favicons for website
 	#favicon = true
@@ -94,6 +94,16 @@ weight = 2
 name = "About"
 url = "/about"
 weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[menu.main]]
+name = "Categories"
+url = "/categories"
+weight = 5
 
 # Social Menu
 
