@@ -2,6 +2,7 @@
 title: "Algorithmic approaches"
 date: 2021-03-28T16:38:49-05:00
 draft: false
+commentable: true
 ---
 Let's play a game of finding out how many high schoolers make me feel bad about myself. Just kidding. Mostly.
 

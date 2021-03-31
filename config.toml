@@ -28,7 +28,7 @@ googleAnalytics = ""
 	keywords = ["hugo","vitae","theme","static"]
 
 	# Add meta description in head part
-	description = "Vitae is a blog theme for Hugo that focuses on your content."
+	# description = "Vitae is a blog theme for Hugo that focuses on your content."
 
 	# Add pagetitle to homepage <title> tag
 	pagetitle = "All about static site generation"
@@ -43,7 +43,7 @@ googleAnalytics = ""
 	math = true
 
 	# Optional 80x80 avatar image.
-	avatar = "/img/vitae.jpg"
+	# avatar = "/img/vitae.jpg"
 
 	# Optional favicons for website
 	#favicon = true
@@ -63,12 +63,12 @@ googleAnalytics = ""
 # Comments
 [params.comments]
 # Enable Comments with "true"
-enabled = false
+enabled = true
 
 # Comment provider:
 #   disqus (https://disqus.com)
 #   commento (https://commento.io)
-#engine = "disqus"
+#engine = "commento"
 
 # Content types to disable comments on.
 #disableOnTypes = ["page"]
@@ -106,15 +106,11 @@ url = "/categories"
 weight = 5
 
 # Social Menu
-[[params.social]]
-name = "Github"
-icon = "fab fa-github"
-url = "https://github.com/dataCobra/hugo-vitae"
 
 #[[params.social]]
 #name = "Email"
 #icon = "fas fa-envelope"
-#cmd = "mailto:example@example.com"
+#cmd = "mailto:bagsy@posteo.me"
 
 [[params.social]]
 name = "RSS"
