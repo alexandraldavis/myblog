@@ -58,7 +58,7 @@ googleAnalytics = ""
 	#disableTaxoTypes = [""]
 
 	# Custom CSS applied to default styles. (Path could be "static/css/")
-	#customCSS = "css/custom.css"
+	customCSS = "css/custom.css"
 
 # Comments
 [params.comments]
@@ -96,13 +96,13 @@ url = "/about"
 weight = 3
 
 [[menu.main]]
-name = "Tags"
-url = "/tags"
+name = "Bookshelf"
+url = "/books"
 weight = 4
 
 [[menu.main]]
-name = "Categories"
-url = "/categories"
+name = "Tags"
+url = "/tags"
 weight = 5
 
 # Social Menu
