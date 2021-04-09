@@ -2,10 +2,11 @@ baseURL = "http://bagsy.blog/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 author = "Hugo Authors"
-title = "Vitae"
+title = "Bagsy"
 theme = "hugo-vitae"
 paginate = 5
 enableRobotsTXT = true
+enableEmoji = true
 
 copyright = "© Copyright notice | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)"
 
@@ -28,7 +29,6 @@ googleAnalytics = ""
 	keywords = ["hugo","vitae","theme","static"]
 
 	# Add meta description in head part
-	# description = "Vitae is a blog theme for Hugo that focuses on your content."
 
 	# Add pagetitle to homepage <title> tag
 	pagetitle = "All about static site generation"
