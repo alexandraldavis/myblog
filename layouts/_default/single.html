@@ -18,6 +18,9 @@
 	{{ end }}
 	{{ end }}
 	</div>
+	<div class="matter">
+                        <h1 class="title">{{ .Title }}</h1>
+                </div>
 	<div class="post-header">
 	{{ if ne .Date.Year 1 }}
 		<div class="meta">
@@ -29,9 +32,6 @@
 			{{ end }}
 		</div>
 		{{ end }}
-		<div class="matter">
-			<h1 class="title">{{ .Title }}</h1>
-		</div>
 	</div>
 	<div class="markdown">
 		{{ .Content }}

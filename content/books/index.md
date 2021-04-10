@@ -8,7 +8,8 @@ nodate: true
 ---
 
 ## 2021
-
+* [Conditional Citizens](https://lailalalami.com/conditional-citizens/about/) by Laila Lalami
+* [The Question of German Guilt](https://www.worldcat.org/title/question-of-german-guilt/oclc/926858980&referer=brief_results) by Karl Jaspers
 * [The Sword in the Stone](https://www.worldcat.org/title/sword-in-the-stone/oclc/4871373) by T.H. White
 * [All the Rage: Mothers, Fathers, and the Myth of Equal Partnership](https://darcylockman.com/) by Darcy Lockman
 * [The Remedy: Robert Koch, Arthur Conan Doyle, and the Quest to Cure Tuberculosis](https://www.worldcat.org/title/remedy-robert-koch-arthur-conan-doyle-and-the-quest-to-cure-tuberculosis/oclc/1183397773&referer=brief_results) by Thomas Goetz

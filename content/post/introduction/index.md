@@ -9,6 +9,8 @@ attending. No, I was not able to photograph Barack Obama's 2017 appearance at th
 CIA director John Brennan, the American String Quartet, Hiroshima bomb survivor Tekashi Teramoto, and even 2016 libertarian presidential candidate Gary 
 Johnson.
 
+{{< figure src="String_Quartet.jpg" style="width:5%;" title="American String Quartet's Daniel Avshalomov performing on February 17, 2017 at Mandel Hall." >}}
+
 Over the summer I listened to an autobiography authored by another individual whose "visit" I had the privilege of photographing in 2016. It should be 
 mentioned I had no choice but to break the status quo of how I normally photographed invitees. At previous talks I waited for the audience to be seated, 
 after which I snaked through to the front row to capture the speaker from optimal angles. This time was different not because the event was outdoors or 
