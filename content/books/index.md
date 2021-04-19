@@ -8,6 +8,9 @@ nodate: true
 ---
 
 ## 2021
+* [Attempts](https://www.otpbooks.com/product/attempts/) by Dan John
+* [Stories of Your Life and Others](https://www.indiebound.org/book/9781101972120) by Ted Chiang
+* [A World Without Email](https://www.calnewport.com/books/a-world-without-email/) by Cal Newport
 * [Conditional Citizens](https://lailalalami.com/conditional-citizens/about/) by Laila Lalami
 * [The Question of German Guilt](https://www.worldcat.org/title/question-of-german-guilt/oclc/926858980&referer=brief_results) by Karl Jaspers
 * [The Sword in the Stone](https://www.worldcat.org/title/sword-in-the-stone/oclc/4871373) by T.H. White
