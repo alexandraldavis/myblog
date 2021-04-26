@@ -8,6 +8,7 @@ nodate: true
 ---
 
 ## 2021
+* [In Cold Blood](https://www.worldcat.org/title/in-cold-blood-a-true-account-of-a-multiple-murder-and-its-consequences/oclc/1239629427&referer=brief_results) by Truman Capote
 * [Attempts](https://www.otpbooks.com/product/attempts/) by Dan John
 * [Stories of Your Life and Others](https://www.indiebound.org/book/9781101972120) by Ted Chiang
 * [A World Without Email](https://www.calnewport.com/books/a-world-without-email/) by Cal Newport
