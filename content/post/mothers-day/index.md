@@ -7,11 +7,21 @@ nodate: false
 ---
 I wish Mother's Day would disappear. Even the holiday's founder, Anna Jarvis, [felt this way.](https://www.bbc.com/news/stories-52589173)
 
-There is no room for nuance. There are no Mother's Day cards for "I appreciate what you've done for me, but it's complicated." There are only flowers and unconditional love.
+There is no room for nuance. There are no Mother's Day cards for "I appreciate what you've done for me, but it's complicated." There are 
+only flowers and unconditional love.
 
-My consciously not knowing how to feel about this day loomed in junior high school. Female peers raved that their mother was their best friend, which I never understood. Around this time I felt my mom and I were different species -- how could I confide in her? That is not to say I acted out more than the average teenager or refused to hug my mother. But the bad memories stung more than the good ones comforted: verbal brawls on the long drives home from athletic events because I failed to achieve her standards, her shattering our home telephone on the kitchen floor out of inconsolable rage, and eventually being told that my departure out-of-state for college would be celebrated.
+My consciously not knowing how to feel about this day loomed in junior high school. Female peers raved that their mother was their best 
+friend, which I never understood. Around this time I felt my mom and I were different species -- how could I confide in her? That is not 
+to say I acted out more than the average teenager or refused to hug my mother. But the bad memories stung more than the good ones 
+comforted: verbal brawls on the long drives home from athletic events because I failed to achieve her standards, her shattering our home 
+telephone on the kitchen floor out of inconsolable rage, and eventually being told that my departure out-of-state for college would be 
+celebrated.
 
-Unconsciously wondering if my biological mother was somewhere out there, maybe wondering if I was thinking about her on Mother's Day (or any other day), probably restrained potential affection for my adoptive mother, regardless of the latter's behavior. These hypotheticals started consuming me. I never felt comfortable sharing these thoughts with my adoptive family, instead bottling them up until I graduated high school and confessed that I wanted to find answers. For closure. For personal medical history. For fun. After all, my adoptive mother geeked out on unraveling her own genealogical roots -- why couldn't I, too?
+Unconsciously wondering if my biological mother was somewhere out there, maybe wondering if I was thinking about her, probably restrained 
+potential affection for my adoptive mother, regardless of the latter's behavior. I am not afraid to admit I was not an angel child, but I also like to think she had many chances. Those hypotheticals started consuming me. I never felt 
+comfortable sharing these thoughts with my adoptive family, instead bottling them up until I graduated high school and confessed that I 
+wanted to find answers. For closure. For personal medical history. For fun. After all, my adoptive mother geeked out on unraveling her 
+own genealogical roots -- why couldn't I, too?
 
 Her response was cold. She eventually conceded, but she only cared that I did not send my biological family members, some of whom the investigator to my delight tracked down, financial support. There was no congratulations from her.
 
