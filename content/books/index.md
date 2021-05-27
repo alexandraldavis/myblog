@@ -8,6 +8,11 @@ nodate: true
 ---
 
 ## 2021
+
+* [Nomadland](https://www.jessicabruder.com/nomadland-ii) by Jessica Bruder
+* [Infinite Jest](https://www.indiebound.org/book/9780316066525) by David Foster Wallace
+* [Herkunft](https://www.penguinrandomhouse.de/Buch/HERKUNFT/Sasa-Stanisic/Luchterhand-Literaturverlag/e472733.rhd) by Saša Stanišić
+* [The Privileged Poor: How Elite Colleges Are Failing Disadvantaged Students](https://www.indiebound.org/book/9780674248243) by Anthony Abraham Jack 
 * [In Cold Blood](https://www.worldcat.org/title/in-cold-blood-a-true-account-of-a-multiple-murder-and-its-consequences/oclc/1239629427&referer=brief_results) by Truman Capote
 * [Attempts](https://www.otpbooks.com/product/attempts/) by Dan John
 * [Stories of Your Life and Others](https://www.indiebound.org/book/9781101972120) by Ted Chiang
