@@ -9,6 +9,7 @@ nodate: true
 
 ## 2021
 
+* [Eichmann in Jerusalem](https://www.worldcat.org/title/eichmann-in-jerusalem-a-report-on-the-banality-of-evil/oclc/1080929585&referer=brief_results) by Hannah Arendt
 * [Nomadland](https://www.jessicabruder.com/nomadland-ii) by Jessica Bruder
 * [Infinite Jest](https://www.indiebound.org/book/9780316066525) by David Foster Wallace
 * [Herkunft](https://www.penguinrandomhouse.de/Buch/HERKUNFT/Sasa-Stanisic/Luchterhand-Literaturverlag/e472733.rhd) by Saša Stanišić
