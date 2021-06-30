@@ -9,6 +9,11 @@ nodate: true
 
 ## 2021
 
+* [Consider the Lobster and Other Essays](https://www.indiebound.org/book/9780316013321) by David Foster Wallace
+* [White Noise](https://www.indiebound.org/book/9780143105985) by Don DeLilo
+* [The Immortal Life of Henrietta Lacks](http://rebeccaskloot.com/the-immortal-life/) by Rebecca Skloot
+* [Imperium](https://www.indiebound.org/book/9780679747802) by Ryszard Kapuściński
+* [Hannah Arendt: A Life in Dark Times](http://www.annecheller.com/book/hanna-arendt-a-life-in-dark-times/) by Anne Heller
 * [Eichmann in Jerusalem](https://www.worldcat.org/title/eichmann-in-jerusalem-a-report-on-the-banality-of-evil/oclc/1080929585&referer=brief_results) by Hannah Arendt
 * [Nomadland](https://www.jessicabruder.com/nomadland-ii) by Jessica Bruder
 * [Infinite Jest](https://www.indiebound.org/book/9780316066525) by David Foster Wallace
