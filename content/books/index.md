@@ -9,6 +9,8 @@ nodate: true
 
 ## 2021
 
+* [The Adventures of Augie March](https://www.indiebound.org/book/9780143039570) by Saul Bellow
+* [The Art of Showing Up: How to Be There for Yourself and Your People](https://www.indiebound.org/book/9781615196616) by Rachel Wilkerson Miller
 * [Consider the Lobster and Other Essays](https://www.indiebound.org/book/9780316013321) by David Foster Wallace
 * [White Noise](https://www.indiebound.org/book/9780143105985) by Don DeLilo
 * [The Immortal Life of Henrietta Lacks](http://rebeccaskloot.com/the-immortal-life/) by Rebecca Skloot
