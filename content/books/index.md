@@ -9,6 +9,14 @@ nodate: true
 
 ## 2021
 
+* [Timbuktu](https://www.indiebound.org/book/9780312428945) by Paul Auster
+* [Station Eleven](http://www.emilymandel.com/stationeleven.html) by Emily St. John Mandel
+* [The Coast of Chicago](https://www.indiebound.org/book/9780312424251) by Stuart Dybek
+* [Endpapers: A Family Story of Books, War, Escape, and Home](https://alexanderwolff.com/endpapers/) by Alexander Wolff
+* [Between Past and Future](https://www.indiebound.org/book/9780143104810) by Hannah Arendt
+* [Adult Children of Emotionally Immature Parents](http://www.drlindsaygibson.com/books.html) by Lindsay Gibson
+* [The Volga Tatars: A Profile in National Resilience](https://www.indiebound.org/book/9780817983925) by Azade-Ayse Rorlich
+* [One Hundred Years of Solitude](https://www.indiebound.org/book/9780060883287) by Gabriel García Márquez
 * [The Adventures of Augie March](https://www.indiebound.org/book/9780143039570) by Saul Bellow
 * [The Art of Showing Up: How to Be There for Yourself and Your People](https://www.indiebound.org/book/9781615196616) by Rachel Wilkerson Miller
 * [Consider the Lobster and Other Essays](https://www.indiebound.org/book/9780316013321) by David Foster Wallace
