@@ -9,6 +9,10 @@ nodate: true
 
 ## 2021
 
+* [40 Years With a Whistle](https://www.otpbooks.com/product/40_years_with_a_whistle/) by Dan John
+* [On Revolution](https://www.indiebound.org/book/9780143039907) by Hannah Arendt
+* [The Soviet Mind](https://www.indiebound.org/book/9780815721550) by Isaiah Berlin
+* [No Exit & The Flies](https://www.worldcat.org/title/no-exit-the-flies/oclc/18810478&referer=brief_results) by Jean-Paul Sartre
 * [Timbuktu](https://www.indiebound.org/book/9780312428945) by Paul Auster
 * [Station Eleven](http://www.emilymandel.com/stationeleven.html) by Emily St. John Mandel
 * [The Coast of Chicago](https://www.indiebound.org/book/9780312424251) by Stuart Dybek

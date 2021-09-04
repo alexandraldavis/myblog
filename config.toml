@@ -2,7 +2,7 @@ baseURL = "http://bagsy.blog/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 author = "Hugo Authors"
-title = "Bagsy"
+title = ""
 theme = "hugo-vitae"
 paginate = 5
 enableRobotsTXT = true
@@ -34,7 +34,7 @@ googleAnalytics = ""
 	pagetitle = "All about static site generation"
 
 	# Add a subtitle to your website
-	subtitle = "[Vitae](https://github.com/dataCobra/hugo-vitae) is a blog theme for Hugo that focuses on your content."
+	subtitle = ""
 
 	# Activate to show authors on pages if available
 	#listAuthor = true
