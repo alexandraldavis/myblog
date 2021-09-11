@@ -1,8 +1,8 @@
 baseURL = "http://bagsy.blog/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-author = "Hugo Authors"
-title = ""
+author = "Alexandra"
+title = "Bagsy"
 theme = "hugo-vitae"
 paginate = 5
 enableRobotsTXT = true
@@ -31,7 +31,7 @@ googleAnalytics = ""
 	# Add meta description in head part
 
 	# Add pagetitle to homepage <title> tag
-	pagetitle = "All about static site generation"
+	pagetitle = ""
 
 	# Add a subtitle to your website
 	subtitle = ""
